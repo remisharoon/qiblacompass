@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, ArabiccompassActivity!</string>
+    <string name="app_name">Arabiccompass</string>
+	<string name="label">اتجاه القبلة</string>
+	<string name="alert">الموقع الحالي غير متاح -- تشغيل نظام تحديد المواقع</string>
+	<string name="kaaba">كيلو مترا إلى الكعبة</string>
+	<string name="locmsg">يرجى الانتظار  الحصول على الموقع الحالي</string>
+	<string name="engps">عذرا، لم يتم تحديد الموقع. الرجاء تمكين نظام تحديد المواقع</string>
+	<string name="arwarning">إنذار</string>
+	<string name="unrelsensor">الاستشعار المغناطيسي لا يمكن الاعتماد عليها، غريب الحقل المغناطيسي
+الرجاء إعادة معايرة البوصلة</string>
+	<string name="unrelsenstitle">لا يمكن الاعتماد عليها بوصلة</string>
+</resources>
